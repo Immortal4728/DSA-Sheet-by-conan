@@ -6,6 +6,8 @@ This repository is a **pattern-first, SDE-1-focused DSA roadmap** designed to bu
 
 📖 **Must-Read Before You Begin:** Check out [How to Learn DSA (Without Tutorial Hell)](./HOW-TO-STUDY-DSA.md), [How to Recognize Patterns & Think Through DSA Problems](./HOW-TO-RECOGNIZE-PATTERNS.md), and [Optimization, Complexity & Fast Approach Selection](./HOW-TO-OPTIMIZE-AND-SELECT-APPROACHES.md) for the memory-first mental model, self-solving framework, and optimization ladder.
 
+🎯 **When You Are Ready to Interview:** Use the [Interview Execution System](./interview-execution/README.md) — the structured mental framework for deploying everything you've learned under live interview pressure.
+
 The curriculum is structured around:
 - **Pattern recognition** over memorization
 - **Problem-solving under interview time constraints**
@@ -107,6 +109,14 @@ Interview-Level Transfer
 
 ---
 
+## 🎯 Interview Execution Layer
+
+| Folder | Purpose |
+|---|---|
+| [interview-execution/](./interview-execution/) | Structured mental framework for live SDE-1 interview performance |
+
+---
+
 ## 📚 Section-Level Roadmap
 
 ### 01 — Arrays + Searching + Sorting
@@ -153,6 +163,9 @@ Learn prefix-based data structures and efficient string/set queries where trie s
 
 ### 15 — Bit Manipulation
 Build practical understanding of binary representation, bitwise operations, masks, XOR patterns, and interview-relevant bit techniques.
+
+### Interview Execution
+The structured system for deploying all DSA knowledge under live interview conditions: clarification, constraint analysis, brute force → optimization, pattern recognition, explanation, and timed practice modes.
 
 ---
 
